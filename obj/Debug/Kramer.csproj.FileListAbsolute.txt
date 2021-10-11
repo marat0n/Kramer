@@ -1,0 +1,10 @@
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\bin\Debug\Kramer.exe.config
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\bin\Debug\Kramer.exe
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\bin\Debug\Kramer.pdb
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\obj\Debug\Kramer.csproj.AssemblyReference.cache
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\obj\Debug\Kramer.MainForm.resources
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\obj\Debug\Kramer.Properties.Resources.resources
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\obj\Debug\Kramer.csproj.GenerateResource.cache
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\obj\Debug\Kramer.csproj.CoreCompileInputs.cache
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\obj\Debug\Kramer.exe
+D:\some_code\some_csharp\some_winforms\Kramer\Kramer\Kramer\obj\Debug\Kramer.pdb
